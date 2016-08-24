@@ -1,0 +1,23 @@
+{
+  "name": "clever",
+  "version": "1.0.0",
+  "description": "clever test server",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colinlmcdonald/clever.git"
+  },
+  "author": "colin mcdonald",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colinlmcdonald/clever/issues"
+  },
+  "homepage": "https://github.com/colinlmcdonald/clever#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
